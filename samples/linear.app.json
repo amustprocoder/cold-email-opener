@@ -1,0 +1,48 @@
+{
+  "company": "Linear",
+  "founder_hint": null,
+  "lines": [
+    "You provide a system for product development that is purpose-built for planning and building products with AI agents.",
+    "Your platform features capabilities like the Linear Agent working on tasks such as upgrading to Claude Opus 5.5.",
+    "I help small software companies see the numbers that run the business."
+  ],
+  "evidence": [
+    "Purpose-built for planning and building products with AI agents.",
+    "ENG-924 Upgrade to Claude Opus 5.5 AI",
+    null
+  ],
+  "note": null,
+  "checks": [
+    {
+      "line": "You provide a system for product development that is purpose-built for planning and building products with AI agents.",
+      "evidence": "Purpose-built for planning and building products with AI agents.",
+      "grounded": true,
+      "kind": "fact"
+    },
+    {
+      "line": "Your platform features capabilities like the Linear Agent working on tasks such as upgrading to Claude Opus 5.5.",
+      "evidence": "ENG-924 Upgrade to Claude Opus 5.5 AI",
+      "grounded": true,
+      "kind": "fact"
+    },
+    {
+      "line": "I help small software companies see the numbers that run the business.",
+      "evidence": null,
+      "grounded": null,
+      "kind": "bridge"
+    }
+  ],
+  "grounded": 2,
+  "model": "gemini-3.5-flash-lite",
+  "tokens_in": 2098,
+  "tokens_out": 138,
+  "seconds": 2.0,
+  "errors": [],
+  "cost_usd": 0.000974,
+  "site": {
+    "final_url": "https://linear.app/",
+    "domain": "linear.app",
+    "source": "homepage",
+    "chars": 6000
+  }
+}

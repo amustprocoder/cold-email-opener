@@ -1,0 +1,48 @@
+{
+  "company": "Plausible",
+  "founder_hint": "Uku and Marko",
+  "lines": [
+    "You built Plausible as a simple, privacy-friendly Google Analytics alternative.",
+    "Your site notes you have over 22,000 paying subscribers and 332 billion events stored.",
+    "I help small software companies see the numbers that run the business."
+  ],
+  "evidence": [
+    "Plausible Analytics | Simple, privacy-friendly Google Analytics alternative",
+    "Paying subscribers 22k",
+    null
+  ],
+  "note": null,
+  "checks": [
+    {
+      "line": "You built Plausible as a simple, privacy-friendly Google Analytics alternative.",
+      "evidence": "Plausible Analytics | Simple, privacy-friendly Google Analytics alternative",
+      "grounded": true,
+      "kind": "fact"
+    },
+    {
+      "line": "Your site notes you have over 22,000 paying subscribers and 332 billion events stored.",
+      "evidence": "Paying subscribers 22k",
+      "grounded": true,
+      "kind": "fact"
+    },
+    {
+      "line": "I help small software companies see the numbers that run the business.",
+      "evidence": null,
+      "grounded": null,
+      "kind": "bridge"
+    }
+  ],
+  "grounded": 2,
+  "model": "gemini-3.5-flash-lite",
+  "tokens_in": 1719,
+  "tokens_out": 134,
+  "seconds": 1.7,
+  "errors": [],
+  "cost_usd": 0.000851,
+  "site": {
+    "final_url": "https://plausible.io/",
+    "domain": "plausible.io",
+    "source": "homepage",
+    "chars": 6000
+  }
+}

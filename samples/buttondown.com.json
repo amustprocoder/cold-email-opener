@@ -1,0 +1,48 @@
+{
+  "company": "Buttondown",
+  "founder_hint": null,
+  "lines": [
+    "You are building newsletter software positioned as the last platform creators will ever need to migrate to.",
+    "Your platform connects to tools like Discord, Memberful, and YouTube while offering a feature-complete API.",
+    "I help small software companies see the numbers that run the business."
+  ],
+  "evidence": [
+    "Buttondown — Newsletter software for people like you",
+    "Connect your email to tools like Discord, Memberful, YouTube, and more.",
+    null
+  ],
+  "note": null,
+  "checks": [
+    {
+      "line": "You are building newsletter software positioned as the last platform creators will ever need to migrate to.",
+      "evidence": "Buttondown — Newsletter software for people like you",
+      "grounded": true,
+      "kind": "fact"
+    },
+    {
+      "line": "Your platform connects to tools like Discord, Memberful, and YouTube while offering a feature-complete API.",
+      "evidence": "Connect your email to tools like Discord, Memberful, YouTube, and more.",
+      "grounded": true,
+      "kind": "fact"
+    },
+    {
+      "line": "I help small software companies see the numbers that run the business.",
+      "evidence": null,
+      "grounded": null,
+      "kind": "bridge"
+    }
+  ],
+  "grounded": 2,
+  "model": "gemini-3.5-flash-lite",
+  "tokens_in": 1591,
+  "tokens_out": 139,
+  "seconds": 2.0,
+  "errors": [],
+  "cost_usd": 0.000825,
+  "site": {
+    "final_url": "https://buttondown.com/",
+    "domain": "buttondown.com",
+    "source": "homepage",
+    "chars": 5166
+  }
+}

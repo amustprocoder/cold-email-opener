@@ -1,0 +1,9 @@
+time,url,model,tokens_in,tokens_out,cost_usd,seconds,source,grounded
+2026-11-26T10:27:09,https://plausible.io/,gemini-3.5-flash-lite,1719,131,0.000843,9.5,homepage,1/2
+2026-11-26T10:27:14,https://linear.app/,gemini-3.5-flash-lite,2098,120,0.000929,3.9,homepage,2/2
+2026-11-26T10:27:18,https://buttondown.com/,gemini-3.5-flash-lite,1579,130,0.000799,1.9,homepage,2/2
+2026-11-26T10:28:06,https://plausible.io/,gemini-3.5-flash-lite,1719,134,0.000851,1.7,homepage,2/2
+2026-11-26T10:28:10,https://linear.app/,gemini-3.5-flash-lite,2098,138,0.000974,2.0,homepage,2/2
+2026-11-26T10:28:13,https://buttondown.com/,gemini-3.5-flash-lite,1591,139,0.000825,2.0,homepage,2/2
+2026-11-26T18:10:11,https://linear.app/,gemini-3.5-flash-lite,2109,117,0.000925,5.9,homepage,2/2
+2026-11-26T18:12:23,https://plausible.io/,gemini-3.5-flash-lite,1719,132,0.000846,6.1,homepage,1/2
